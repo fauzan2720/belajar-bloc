@@ -15,7 +15,7 @@ Ikuti langkah-langkah di bawah ini untuk mulai menggunakan proyek ini:
 2. Clone repositori ini ke komputer Anda menggunakan perintah berikut:
 
 ```shell
-https://github.com/fauzan2720/belajar-bloc.git
+git clone https://github.com/fauzan2720/belajar-bloc.git
 ```
 
 3. Buka proyek dalam editor kode favorit Anda.
